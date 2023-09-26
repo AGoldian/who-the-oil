@@ -1,7 +1,7 @@
 # NESTRO_CHALLENGE_hackaton
 Решение задачи хакатона NESTRO CHALLENGE
 
-Код на Python / Django. Визуализация и интерактив на Streamlit. Умные парсеры.
+Код на Python. Визуализация и интерактив на Streamlit. Умные парсеры.
 
 Чтобы запустить это приложение локально:
 
@@ -14,6 +14,9 @@
 ```pip install -r requirements.txt```
 4. Запустите приложение локально
 ```streamlit run dashboard/dashboard_one.py```
+
+<img width="1018" alt="image" src="https://github.com/AGoldian/who-the-oil/assets/42536677/49cb670c-d305-44b9-ad95-300fcbd2eb98">
+
 
 ## Введение
 
